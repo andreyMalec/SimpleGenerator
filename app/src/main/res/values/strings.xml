@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleGenerator</string>
+    <string name="fibonacci">Fibonacci</string>
+    <string name="prime">Prime</string>
+</resources>
